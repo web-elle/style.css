@@ -1,0 +1,64 @@
+header{
+    background-color: rgb(186, 186, 186);
+    display: table;
+    width: 100%;
+}
+
+.logo-site{
+    float:left;
+    margin: 0 0 0 200px;
+}
+
+.logo-site img{
+    float:left;
+    max-width: 100px;
+}
+
+.logo-site h1{
+    display: inline-block;
+    margin: 50px 0 0 20px;
+}
+
+.logo-site h1 a{
+    text-decoration: none;
+    color: #000000;
+    font-weight: bold;
+	font-size: 40px;
+}
+
+nav{
+    float: right;
+    margin: 0 200px 0 150px;
+}
+
+nav li{
+    display: inline-block;
+    margin: 60px 0 0 20px;
+}
+
+nav a {
+	text-transform: uppercase;
+    font-family: Helvetica;
+	color: #000000;
+	font-size: 22px;
+	text-decoration: none;
+}
+
+nav a:hover {
+	color: #ff0000;
+}
+
+
+
+main {
+    text-align: center;
+}
+
+main h1{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+main strong{
+font-variant-ligatures: historical-ligatures;
+}
+    
